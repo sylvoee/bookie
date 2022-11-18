@@ -12,4 +12,3 @@ if (!$con){
         <script>alert("Connection Unsuccessful!!!");</script>
     <?php
 }
-?>
