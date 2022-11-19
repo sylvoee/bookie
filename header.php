@@ -22,7 +22,7 @@
 
 <nav class="navbar navbar-dark bg-info fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand" href="uploadPage.php">My Bookie</a>
+    <a class="navbar-brand" href="index.php">My Bookie</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
