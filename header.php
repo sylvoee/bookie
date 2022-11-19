@@ -37,10 +37,10 @@
             <a class="nav-link active" aria-current="page" href="uploadPage.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="getbooks.php">Get Books</a>
+            <a class="nav-link" href="index.php">Get Books</a>
           </li>
         </ul>
-        <form class="d-flex mt-3" role="search" action="getBooks.php" method = "POST">
+        <form class="d-flex mt-3" role="search" action="index.php" method = "POST">
           <input class="form-control me-2" name = "search" type="search" placeholder="Search books by author, department or title" aria-label="Search">
           <button class="btn btn-success" name = "searchBtn" type="submit">Search</button>
         </form>
